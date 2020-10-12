@@ -1,0 +1,41 @@
+figcaption{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: blueviolet;
+    font-family: helvetica;
+    padding: 20px;
+    border: 10px; 
+    text-decoration: underline;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: burlywood;
+}
+
+p{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+hr{
+    background-color: rgb(71, 4, 57);
+    height: 3px;
+    
+}
+
+li{
+    text-align: center;
+}
+
+p{
+    font-weight: large;
+}
