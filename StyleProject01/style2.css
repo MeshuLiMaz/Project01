@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-shadow: 1px 1px red;
+}
+
+h3{
+    text-align: center;
+    color: royalblue;
+}
+
+#topLeft{
+    float: left;
+}
+
+li{
+    text-align: center;
+}
+
+body{
+    background-color: salmon;
+}
+
+.left {
+    float: left;
+    width: 700px;
+    border: 10px solid #73AD21;
+    padding: 20px;
+}

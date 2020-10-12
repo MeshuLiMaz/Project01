@@ -1,0 +1,27 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.right {
+        position: absolute;
+        right: 0px;
+        width: 500px;
+        border: 10px solid #58f594;
+        padding: 100px;
+      }
+
+      label {
+        font-size: x-large;  
+      }
+
+      h1 {
+          color: rgb(6, 7, 6);
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+
